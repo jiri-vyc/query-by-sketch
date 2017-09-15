@@ -1,0 +1,29 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/lightbox2/dist/css/lightbox.min.css')
+    link(rel="stylesheet", media="screen, projection", href="/stylesheets/slider.css")
+    link(rel='stylesheet', href='/nprogress/nprogress.css')
+
+
+    link(href="/stylesheets/screen.css", media="screen, projection", rel="stylesheet", type="text/css")
+    link(href="/stylesheets/print.css", media="print", rel="stylesheet", type="text/css")
+
+  body
+    .content
+        include menu
+        #flash-message(style="display:none")
+        block content
+
+    script(src="/js/jquery-1.11.3.min.js")
+    script(src="/js/bootstrap-slider.js")
+    script(src="/bootstrap/assets/javascripts/bootstrap.min.js")
+    script(src="/lightbox2/dist/js/lightbox.min.js")
+    script(src="/nprogress/nprogress.js")    
+
+    script(src="/js/flash-message.js")
+    script(src="/js/jscolor.js")
+    script(src="/js/main.js")
+    script(src="/js/draw_canvas.js")

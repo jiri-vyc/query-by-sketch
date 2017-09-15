@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    h1= title
+    h2= user
+    form#formUploadFile.form-inline(name="uploadfile",method="post",action="upload",enctype="multipart/form-data", role="form")
+        .form-group
+            input#uploadFile.form-control(type="file",name="image")
+            button#btnSubmit.form-control.btn.btn-success(type="submit") Upload
+

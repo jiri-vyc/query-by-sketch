@@ -1,0 +1,134 @@
+body, html{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.image-list{
+    border: 3px solid rgba(123,123,200,0.5);
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.image-wrapper{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+.caption{
+    display: block;
+    width: 60%;
+    height: 30px;
+}
+
+canvas{
+    border-radius: 5px;
+    background-color: rgba(255,255,255,0.5);
+}
+
+#flash-message{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: fixed;
+    z-index: 10000;
+}
+
+.error{
+    background-color: rgba(142,42,42,0.8);
+}
+
+.success{
+    background-color: rgba(42,142,42,0.8);
+}
+
+#canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: none;
+    z-index: 2;
+}
+
+#canvas-temp{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+
+
+#canvas-container{
+    position: relative;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+canvas:hover{
+    cursor: pointer;
+}
+
+h4{
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+    color: #222222;
+}
+
+.transparent{
+    background-color: rgba(0,0,0,0);
+}
+
+.content{
+    text-align: center;
+    width: 100%;
+    min-height: 100%;
+    margin: 0 auto;
+    color: #ccccff;
+    padding: 5px;
+    background: url("../images/blurred.png");
+    background-size: 100% 100%;
+}
+
+.content-wrapper{
+    padding: 5px 10%;
+    text-align: left;
+}
+
+.tools{
+    margin-top: 10px;
+}
+
+.progress-wrapper{
+    margin-top: 15px;
+}
+
+.color-wrapper{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.slider-wrapper{
+    width: 100%;
+    margin-top: 15px;
+}
+
+.color-palette{
+    position: relative;
+    display: inline-block;
+    height: 20px;
+}
+
+#slider-handle{
+    margin-left: 8px;
+}
+
+#slider-handle .slider-handle{
+    border-radius: 4px;
+}
+

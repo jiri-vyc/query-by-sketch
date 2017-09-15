@@ -1,0 +1,3259 @@
+
+before calculating similarity of filesketched_1452713645017image.png
+604
+604
+done calculating one pair similarity
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 604 }
+before calculating similarity of filesketched_1452713645017image.png
+606
+606
+done calculating one pair similarity
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+done all calculating
+[ { filename: 'sketched_1452713591056image.png', similarity: 604 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 604 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+before calculating similarity of filesketched_1452713645017image.png
+606
+606
+done calculating one pair similarity
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 606 }
+before calculating similarity of filesketched_1452713645017image.png
+606
+606
+done calculating one pair similarity
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+done all calculating
+[ { filename: 'sketched_1452713591056image.png', similarity: 606 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 606 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+before calculating similarity of filesketched_1452713645017image.png
+598
+598
+done calculating one pair similarity
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 598 }
+before calculating similarity of filesketched_1452713645017image.png
+606
+606
+done calculating one pair similarity
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+done all calculating
+[ { filename: 'sketched_1452713591056image.png', similarity: 598 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 598 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 598 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 598 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+sorted
+undefined
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 598 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 598 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 598 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 598 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+undefined
+[ { filename: 'sketched_1452713591056image.png', similarity: 598 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 598 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 598 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+[ { filename: 'sketched_1452713645017image.png', similarity: 606 },
+  { filename: 'sketched_1452713591056image.png', similarity: 598 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 598 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 598 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 412 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 407 }
+one match returned as : 
+{ filename: 'sketched_1452720003292image.png', similarity: 416 }
+one match returned as : 
+{ filename: 'sketched_1452720021907image.png', similarity: 416 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 412 },
+  { filename: 'sketched_1452713645017image.png', similarity: 407 },
+  { filename: 'sketched_1452720003292image.png', similarity: 416 },
+  { filename: 'sketched_1452720021907image.png', similarity: 416 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 457 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 458 }
+one match returned as : 
+{ filename: 'sketched_1452720003292image.png', similarity: 459 }
+one match returned as : 
+{ filename: 'sketched_1452720021907image.png', similarity: 459 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 457 },
+  { filename: 'sketched_1452713645017image.png', similarity: 458 },
+  { filename: 'sketched_1452720003292image.png', similarity: 459 },
+  { filename: 'sketched_1452720021907image.png', similarity: 459 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 88 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 94 }
+one match returned as : 
+{ filename: 'sketched_1452720003292image.png', similarity: 94 }
+one match returned as : 
+{ filename: 'sketched_1452720021907image.png', similarity: 96 }
+one match returned as : 
+{ filename: 'sketched_1452720087424image.png', similarity: 97 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 88 },
+  { filename: 'sketched_1452713645017image.png', similarity: 94 },
+  { filename: 'sketched_1452720003292image.png', similarity: 94 },
+  { filename: 'sketched_1452720021907image.png', similarity: 96 },
+  { filename: 'sketched_1452720087424image.png', similarity: 97 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 420 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 425 }
+one match returned as : 
+{ filename: 'sketched_1452720003292image.png', similarity: 426 }
+one match returned as : 
+{ filename: 'sketched_1452720021907image.png', similarity: 426 }
+one match returned as : 
+{ filename: 'sketched_1452720087424image.png', similarity: 425 }
+one match returned as : 
+{ filename: 'sketched_1452720144785image.png', similarity: 429 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 420 },
+  { filename: 'sketched_1452713645017image.png', similarity: 425 },
+  { filename: 'sketched_1452720003292image.png', similarity: 426 },
+  { filename: 'sketched_1452720021907image.png', similarity: 426 },
+  { filename: 'sketched_1452720087424image.png', similarity: 425 },
+  { filename: 'sketched_1452720144785image.png', similarity: 429 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 604 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+one match returned as : 
+{ filename: 'sketched_1452720003292image.png', similarity: 605 }
+one match returned as : 
+{ filename: 'sketched_1452720021907image.png', similarity: 596 }
+one match returned as : 
+{ filename: 'sketched_1452720087424image.png', similarity: 604 }
+one match returned as : 
+{ filename: 'sketched_1452720144785image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 604 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 },
+  { filename: 'sketched_1452720003292image.png', similarity: 605 },
+  { filename: 'sketched_1452720021907image.png', similarity: 596 },
+  { filename: 'sketched_1452720087424image.png', similarity: 604 },
+  { filename: 'sketched_1452720144785image.png', similarity: 606 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 424 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 429 }
+one match returned as : 
+{ filename: 'sketched_1452720003292image.png', similarity: 428 }
+one match returned as : 
+{ filename: 'sketched_1452720021907image.png', similarity: 428 }
+one match returned as : 
+{ filename: 'sketched_1452720087424image.png', similarity: 426 }
+one match returned as : 
+{ filename: 'sketched_1452720144785image.png', similarity: 429 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 424 },
+  { filename: 'sketched_1452713645017image.png', similarity: 429 },
+  { filename: 'sketched_1452720003292image.png', similarity: 428 },
+  { filename: 'sketched_1452720021907image.png', similarity: 428 },
+  { filename: 'sketched_1452720087424image.png', similarity: 426 },
+  { filename: 'sketched_1452720144785image.png', similarity: 429 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 424 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 429 }
+one match returned as : 
+{ filename: 'sketched_1452720003292image.png', similarity: 428 }
+one match returned as : 
+{ filename: 'sketched_1452720021907image.png', similarity: 428 }
+one match returned as : 
+{ filename: 'sketched_1452720087424image.png', similarity: 426 }
+one match returned as : 
+{ filename: 'sketched_1452720144785image.png', similarity: 429 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 424 },
+  { filename: 'sketched_1452713645017image.png', similarity: 429 },
+  { filename: 'sketched_1452720003292image.png', similarity: 428 },
+  { filename: 'sketched_1452720021907image.png', similarity: 428 },
+  { filename: 'sketched_1452720087424image.png', similarity: 426 },
+  { filename: 'sketched_1452720144785image.png', similarity: 429 } ]
+one match returned as : 
+{ filename: 'sketched_1452713591056image.png', similarity: 180 }
+one match returned as : 
+{ filename: 'sketched_1452713645017image.png', similarity: 177 }
+one match returned as : 
+{ filename: 'sketched_1452720003292image.png', similarity: 180 }
+one match returned as : 
+{ filename: 'sketched_1452720021907image.png', similarity: 176 }
+one match returned as : 
+{ filename: 'sketched_1452720087424image.png', similarity: 178 }
+one match returned as : 
+{ filename: 'sketched_1452720144785image.png', similarity: 175 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 180 },
+  { filename: 'sketched_1452713645017image.png', similarity: 177 },
+  { filename: 'sketched_1452720003292image.png', similarity: 180 },
+  { filename: 'sketched_1452720021907image.png', similarity: 176 },
+  { filename: 'sketched_1452720087424image.png', similarity: 178 },
+  { filename: 'sketched_1452720144785image.png', similarity: 175 } ]
+{ filename: 'sketched_1452713591056image.png', similarity: 604 }
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+{ filename: 'sketched_1452720003292image.png', similarity: 605 }
+{ filename: 'sketched_1452720021907image.png', similarity: 596 }
+{ filename: 'sketched_1452720087424image.png', similarity: 604 }
+{ filename: 'sketched_1452720144785image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 604 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 },
+  { filename: 'sketched_1452720003292image.png', similarity: 605 },
+  { filename: 'sketched_1452720021907image.png', similarity: 596 },
+  { filename: 'sketched_1452720087424image.png', similarity: 604 },
+  { filename: 'sketched_1452720144785image.png', similarity: 606 } ]
+{ filename: 'sketched_1452713591056image.png', similarity: 604 }
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+{ filename: 'sketched_1452720003292image.png', similarity: 605 }
+{ filename: 'sketched_1452720021907image.png', similarity: 596 }
+{ filename: 'sketched_1452720087424image.png', similarity: 604 }
+{ filename: 'sketched_1452720144785image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 604 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 },
+  { filename: 'sketched_1452720003292image.png', similarity: 605 },
+  { filename: 'sketched_1452720021907image.png', similarity: 596 },
+  { filename: 'sketched_1452720087424image.png', similarity: 604 },
+  { filename: 'sketched_1452720144785image.png', similarity: 606 } ]
+{ filename: 'sketched_1452713591056image.png', similarity: 604 }
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+{ filename: 'sketched_1452720003292image.png', similarity: 605 }
+{ filename: 'sketched_1452720021907image.png', similarity: 596 }
+{ filename: 'sketched_1452720087424image.png', similarity: 604 }
+{ filename: 'sketched_1452720144785image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 604 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 },
+  { filename: 'sketched_1452720003292image.png', similarity: 605 },
+  { filename: 'sketched_1452720021907image.png', similarity: 596 },
+  { filename: 'sketched_1452720087424image.png', similarity: 604 },
+  { filename: 'sketched_1452720144785image.png', similarity: 606 } ]
+{ filename: 'sketched_1452713591056image.png', similarity: 180 }
+{ filename: 'sketched_1452713645017image.png', similarity: 177 }
+{ filename: 'sketched_1452720003292image.png', similarity: 180 }
+{ filename: 'sketched_1452720021907image.png', similarity: 176 }
+{ filename: 'sketched_1452720087424image.png', similarity: 178 }
+{ filename: 'sketched_1452720144785image.png', similarity: 175 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 180 },
+  { filename: 'sketched_1452713645017image.png', similarity: 177 },
+  { filename: 'sketched_1452720003292image.png', similarity: 180 },
+  { filename: 'sketched_1452720021907image.png', similarity: 176 },
+  { filename: 'sketched_1452720087424image.png', similarity: 178 },
+  { filename: 'sketched_1452720144785image.png', similarity: 175 } ]
+{ filename: 'sketched_1452713591056image.png', similarity: 424 }
+{ filename: 'sketched_1452713645017image.png', similarity: 429 }
+{ filename: 'sketched_1452720003292image.png', similarity: 428 }
+{ filename: 'sketched_1452720021907image.png', similarity: 428 }
+{ filename: 'sketched_1452720087424image.png', similarity: 426 }
+{ filename: 'sketched_1452720144785image.png', similarity: 429 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 424 },
+  { filename: 'sketched_1452713645017image.png', similarity: 429 },
+  { filename: 'sketched_1452720003292image.png', similarity: 428 },
+  { filename: 'sketched_1452720021907image.png', similarity: 428 },
+  { filename: 'sketched_1452720087424image.png', similarity: 426 },
+  { filename: 'sketched_1452720144785image.png', similarity: 429 } ]
+{ filename: 'sketched_1452713591056image.png', similarity: 424 }
+{ filename: 'sketched_1452713591056image.png', similarity: 604 }
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+{ filename: 'sketched_1452720003292image.png', similarity: 605 }
+{ filename: 'sketched_1452720021907image.png', similarity: 596 }
+{ filename: 'sketched_1452720087424image.png', similarity: 604 }
+{ filename: 'sketched_1452720144785image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 604 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 },
+  { filename: 'sketched_1452720003292image.png', similarity: 605 },
+  { filename: 'sketched_1452720021907image.png', similarity: 596 },
+  { filename: 'sketched_1452720087424image.png', similarity: 604 },
+  { filename: 'sketched_1452720144785image.png', similarity: 606 } ]
+{ filename: 'sketched_1452713591056image.png', similarity: 604 }
+{ filename: 'sketched_1452713645017image.png', similarity: 606 }
+{ filename: 'sketched_1452720003292image.png', similarity: 605 }
+{ filename: 'sketched_1452720021907image.png', similarity: 596 }
+{ filename: 'sketched_1452720087424image.png', similarity: 604 }
+{ filename: 'sketched_1452720144785image.png', similarity: 606 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 604 },
+  { filename: 'sketched_1452713645017image.png', similarity: 606 },
+  { filename: 'sketched_1452720003292image.png', similarity: 605 },
+  { filename: 'sketched_1452720021907image.png', similarity: 596 },
+  { filename: 'sketched_1452720087424image.png', similarity: 604 },
+  { filename: 'sketched_1452720144785image.png', similarity: 606 } ]
+{ filename: 'sketched_1452713591056image.png', similarity: 457 }
+{ filename: 'sketched_1452713645017image.png', similarity: 458 }
+{ filename: 'sketched_1452720003292image.png', similarity: 459 }
+{ filename: 'sketched_1452720021907image.png', similarity: 459 }
+{ filename: 'sketched_1452720087424image.png', similarity: 458 }
+{ filename: 'sketched_1452720144785image.png', similarity: 457 }
+back to main
+[ { filename: 'sketched_1452713591056image.png', similarity: 457 },
+  { filename: 'sketched_1452713645017image.png', similarity: 458 },
+  { filename: 'sketched_1452720003292image.png', similarity: 459 },
+  { filename: 'sketched_1452720021907image.png', similarity: 459 },
+  { filename: 'sketched_1452720087424image.png', similarity: 458 },
+  { filename: 'sketched_1452720144785image.png', similarity: 457 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+{ filename: 'sketched_1452721556723image.png', similarity: 199 }
+{ filename: 'sketched_1452721589089image.png', similarity: 199 }
+{ filename: 'sketched_1452721607379image.png', similarity: 199 }
+{ filename: 'sketched_1452721613849image.png', similarity: 199 }
+{ filename: 'sketched_1452721623710image.png', similarity: 199 }
+{ filename: 'sketched_1452721640615image.png', similarity: 199 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 199 },
+  { filename: 'sketched_1452721589089image.png', similarity: 199 },
+  { filename: 'sketched_1452721607379image.png', similarity: 199 },
+  { filename: 'sketched_1452721613849image.png', similarity: 199 },
+  { filename: 'sketched_1452721623710image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 199 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 163 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 165 }
+{ filename: 'sketched_1452721613849image.png', similarity: 165 }
+{ filename: 'sketched_1452721623710image.png', similarity: 165 }
+{ filename: 'sketched_1452721640615image.png', similarity: 165 }
+{ filename: 'sketched_1452721658995image.png', similarity: 165 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 163 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 165 },
+  { filename: 'sketched_1452721613849image.png', similarity: 165 },
+  { filename: 'sketched_1452721623710image.png', similarity: 165 },
+  { filename: 'sketched_1452721640615image.png', similarity: 165 },
+  { filename: 'sketched_1452721658995image.png', similarity: 165 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 118 }
+{ filename: 'sketched_1452721607379image.png', similarity: 123 }
+{ filename: 'sketched_1452721613849image.png', similarity: 123 }
+{ filename: 'sketched_1452721623710image.png', similarity: 123 }
+{ filename: 'sketched_1452721640615image.png', similarity: 123 }
+{ filename: 'sketched_1452721658995image.png', similarity: 123 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 118 },
+  { filename: 'sketched_1452721607379image.png', similarity: 123 },
+  { filename: 'sketched_1452721613849image.png', similarity: 123 },
+  { filename: 'sketched_1452721623710image.png', similarity: 123 },
+  { filename: 'sketched_1452721640615image.png', similarity: 123 },
+  { filename: 'sketched_1452721658995image.png', similarity: 123 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 163 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 165 }
+{ filename: 'sketched_1452721613849image.png', similarity: 165 }
+{ filename: 'sketched_1452721623710image.png', similarity: 165 }
+{ filename: 'sketched_1452721640615image.png', similarity: 165 }
+{ filename: 'sketched_1452721658995image.png', similarity: 165 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 163 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 165 },
+  { filename: 'sketched_1452721613849image.png', similarity: 165 },
+  { filename: 'sketched_1452721623710image.png', similarity: 165 },
+  { filename: 'sketched_1452721640615image.png', similarity: 165 },
+  { filename: 'sketched_1452721658995image.png', similarity: 165 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 163 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 165 }
+{ filename: 'sketched_1452721613849image.png', similarity: 165 }
+{ filename: 'sketched_1452721623710image.png', similarity: 165 }
+{ filename: 'sketched_1452721640615image.png', similarity: 165 }
+{ filename: 'sketched_1452721658995image.png', similarity: 165 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 163 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 165 },
+  { filename: 'sketched_1452721613849image.png', similarity: 165 },
+  { filename: 'sketched_1452721623710image.png', similarity: 165 },
+  { filename: 'sketched_1452721640615image.png', similarity: 165 },
+  { filename: 'sketched_1452721658995image.png', similarity: 165 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 159 }
+{ filename: 'sketched_1452721589089image.png', similarity: 159 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 159 }
+{ filename: 'sketched_1452721623710image.png', similarity: 159 }
+{ filename: 'sketched_1452721640615image.png', similarity: 159 }
+{ filename: 'sketched_1452721658995image.png', similarity: 159 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 159 },
+  { filename: 'sketched_1452721589089image.png', similarity: 159 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 159 },
+  { filename: 'sketched_1452721623710image.png', similarity: 159 },
+  { filename: 'sketched_1452721640615image.png', similarity: 159 },
+  { filename: 'sketched_1452721658995image.png', similarity: 159 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 188 }
+{ filename: 'sketched_1452721589089image.png', similarity: 188 }
+{ filename: 'sketched_1452721607379image.png', similarity: 188 }
+{ filename: 'sketched_1452721613849image.png', similarity: 188 }
+{ filename: 'sketched_1452721623710image.png', similarity: 188 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 188 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 188 },
+  { filename: 'sketched_1452721589089image.png', similarity: 188 },
+  { filename: 'sketched_1452721607379image.png', similarity: 188 },
+  { filename: 'sketched_1452721613849image.png', similarity: 188 },
+  { filename: 'sketched_1452721623710image.png', similarity: 188 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 188 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+{ filename: 'sketched_1452721556723image.png', similarity: 185 }
+{ filename: 'sketched_1452721589089image.png', similarity: 167 }
+{ filename: 'sketched_1452721607379image.png', similarity: 186 }
+{ filename: 'sketched_1452721613849image.png', similarity: 186 }
+{ filename: 'sketched_1452721623710image.png', similarity: 186 }
+{ filename: 'sketched_1452721640615image.png', similarity: 186 }
+{ filename: 'sketched_1452721658995image.png', similarity: 186 }
+{ filename: 'sketched_1452721935036image.png', similarity: 160 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 174 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 185 },
+  { filename: 'sketched_1452721589089image.png', similarity: 167 },
+  { filename: 'sketched_1452721607379image.png', similarity: 186 },
+  { filename: 'sketched_1452721613849image.png', similarity: 186 },
+  { filename: 'sketched_1452721623710image.png', similarity: 186 },
+  { filename: 'sketched_1452721640615image.png', similarity: 186 },
+  { filename: 'sketched_1452721658995image.png', similarity: 186 },
+  { filename: 'sketched_1452721935036image.png', similarity: 160 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 174 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 185 }
+{ filename: 'sketched_1452721589089image.png', similarity: 184 }
+{ filename: 'sketched_1452721607379image.png', similarity: 186 }
+{ filename: 'sketched_1452721613849image.png', similarity: 186 }
+{ filename: 'sketched_1452721623710image.png', similarity: 186 }
+{ filename: 'sketched_1452721640615image.png', similarity: 186 }
+{ filename: 'sketched_1452721658995image.png', similarity: 186 }
+{ filename: 'sketched_1452721935036image.png', similarity: 171 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 180 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 185 },
+  { filename: 'sketched_1452721589089image.png', similarity: 184 },
+  { filename: 'sketched_1452721607379image.png', similarity: 186 },
+  { filename: 'sketched_1452721613849image.png', similarity: 186 },
+  { filename: 'sketched_1452721623710image.png', similarity: 186 },
+  { filename: 'sketched_1452721640615image.png', similarity: 186 },
+  { filename: 'sketched_1452721658995image.png', similarity: 186 },
+  { filename: 'sketched_1452721935036image.png', similarity: 171 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 180 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+{ filename: 'sketched_1452721556723image.png', similarity: 102 }
+{ filename: 'sketched_1452721589089image.png', similarity: 102 }
+{ filename: 'sketched_1452721607379image.png', similarity: 102 }
+{ filename: 'sketched_1452721613849image.png', similarity: 102 }
+{ filename: 'sketched_1452721623710image.png', similarity: 102 }
+{ filename: 'sketched_1452721640615image.png', similarity: 102 }
+{ filename: 'sketched_1452721658995image.png', similarity: 102 }
+{ filename: 'sketched_1452721935036image.png', similarity: 102 }
+{ filename: 'sketched_1452721955281image.png', similarity: 102 }
+{ filename: 'sketched_1452721981080image.png', similarity: 102 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 102 }
+{ filename: 'sketched_1452722058554image.png', similarity: 102 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 102 },
+  { filename: 'sketched_1452721589089image.png', similarity: 102 },
+  { filename: 'sketched_1452721607379image.png', similarity: 102 },
+  { filename: 'sketched_1452721613849image.png', similarity: 102 },
+  { filename: 'sketched_1452721623710image.png', similarity: 102 },
+  { filename: 'sketched_1452721640615image.png', similarity: 102 },
+  { filename: 'sketched_1452721658995image.png', similarity: 102 },
+  { filename: 'sketched_1452721935036image.png', similarity: 102 },
+  { filename: 'sketched_1452721955281image.png', similarity: 102 },
+  { filename: 'sketched_1452721981080image.png', similarity: 102 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 102 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 102 }
+{ filename: 'sketched_1452721589089image.png', similarity: 102 }
+{ filename: 'sketched_1452721607379image.png', similarity: 102 }
+{ filename: 'sketched_1452721613849image.png', similarity: 102 }
+{ filename: 'sketched_1452721623710image.png', similarity: 102 }
+{ filename: 'sketched_1452721640615image.png', similarity: 102 }
+{ filename: 'sketched_1452721658995image.png', similarity: 102 }
+{ filename: 'sketched_1452721935036image.png', similarity: 102 }
+{ filename: 'sketched_1452721955281image.png', similarity: 102 }
+{ filename: 'sketched_1452721981080image.png', similarity: 102 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 102 }
+{ filename: 'sketched_1452722058554image.png', similarity: 102 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 102 },
+  { filename: 'sketched_1452721589089image.png', similarity: 102 },
+  { filename: 'sketched_1452721607379image.png', similarity: 102 },
+  { filename: 'sketched_1452721613849image.png', similarity: 102 },
+  { filename: 'sketched_1452721623710image.png', similarity: 102 },
+  { filename: 'sketched_1452721640615image.png', similarity: 102 },
+  { filename: 'sketched_1452721658995image.png', similarity: 102 },
+  { filename: 'sketched_1452721935036image.png', similarity: 102 },
+  { filename: 'sketched_1452721955281image.png', similarity: 102 },
+  { filename: 'sketched_1452721981080image.png', similarity: 102 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 102 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 112 }
+{ filename: 'sketched_1452721589089image.png', similarity: 112 }
+{ filename: 'sketched_1452721607379image.png', similarity: 112 }
+{ filename: 'sketched_1452721613849image.png', similarity: 112 }
+{ filename: 'sketched_1452721623710image.png', similarity: 112 }
+{ filename: 'sketched_1452721640615image.png', similarity: 112 }
+{ filename: 'sketched_1452721658995image.png', similarity: 112 }
+{ filename: 'sketched_1452721935036image.png', similarity: 112 }
+{ filename: 'sketched_1452721955281image.png', similarity: 112 }
+{ filename: 'sketched_1452721981080image.png', similarity: 112 }
+{ filename: 'sketched_1452722040703image.png', similarity: 112 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 112 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 112 },
+  { filename: 'sketched_1452721589089image.png', similarity: 112 },
+  { filename: 'sketched_1452721607379image.png', similarity: 112 },
+  { filename: 'sketched_1452721613849image.png', similarity: 112 },
+  { filename: 'sketched_1452721623710image.png', similarity: 112 },
+  { filename: 'sketched_1452721640615image.png', similarity: 112 },
+  { filename: 'sketched_1452721658995image.png', similarity: 112 },
+  { filename: 'sketched_1452721935036image.png', similarity: 112 },
+  { filename: 'sketched_1452721955281image.png', similarity: 112 },
+  { filename: 'sketched_1452721981080image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 112 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 112 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 337 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 158 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 118 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 332 }
+{ filename: 'sketched_1452721955281image.png', similarity: 184 }
+{ filename: 'sketched_1452721981080image.png', similarity: 152 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 118 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 332 },
+  { filename: 'sketched_1452721955281image.png', similarity: 184 },
+  { filename: 'sketched_1452721981080image.png', similarity: 152 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 337 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 156 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 156 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 118 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 332 }
+{ filename: 'sketched_1452721955281image.png', similarity: 184 }
+{ filename: 'sketched_1452721981080image.png', similarity: 152 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 118 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 332 },
+  { filename: 'sketched_1452721955281image.png', similarity: 184 },
+  { filename: 'sketched_1452721981080image.png', similarity: 152 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 332 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721955281image.png', similarity: 184 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 152 },
+  { filename: 'sketched_1452721556723image.png', similarity: 118 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 337 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 158 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 337 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 158 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 187 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 337 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 158 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 178 }
+{ filename: 'sketched_1452721640615image.png', similarity: 187 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 336 }
+{ filename: 'sketched_1452721955281image.png', similarity: 185 }
+{ filename: 'sketched_1452721981080image.png', similarity: 157 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 178 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 336 },
+  { filename: 'sketched_1452721955281image.png', similarity: 185 },
+  { filename: 'sketched_1452721981080image.png', similarity: 157 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 336 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721955281image.png', similarity: 185 },
+  { filename: 'sketched_1452721623710image.png', similarity: 178 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 157 },
+  { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 115 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 187 }
+{ filename: 'sketched_1452721935036image.png', similarity: 303 }
+{ filename: 'sketched_1452721955281image.png', similarity: 140 }
+{ filename: 'sketched_1452721981080image.png', similarity: 139 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 115 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 187 },
+  { filename: 'sketched_1452721935036image.png', similarity: 303 },
+  { filename: 'sketched_1452721955281image.png', similarity: 140 },
+  { filename: 'sketched_1452721981080image.png', similarity: 139 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 303 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 187 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721955281image.png', similarity: 140 },
+  { filename: 'sketched_1452721981080image.png', similarity: 139 },
+  { filename: 'sketched_1452721556723image.png', similarity: 115 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 178 }
+{ filename: 'sketched_1452721640615image.png', similarity: 187 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 336 }
+{ filename: 'sketched_1452721955281image.png', similarity: 185 }
+{ filename: 'sketched_1452721981080image.png', similarity: 157 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 178 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 336 },
+  { filename: 'sketched_1452721955281image.png', similarity: 185 },
+  { filename: 'sketched_1452721981080image.png', similarity: 157 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 336 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721955281image.png', similarity: 185 },
+  { filename: 'sketched_1452721623710image.png', similarity: 178 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 157 },
+  { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 116 }
+{ filename: 'sketched_1452721589089image.png', similarity: 164 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 333 }
+{ filename: 'sketched_1452721955281image.png', similarity: 178 }
+{ filename: 'sketched_1452721981080image.png', similarity: 156 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 111 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 116 },
+  { filename: 'sketched_1452721589089image.png', similarity: 164 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 333 },
+  { filename: 'sketched_1452721955281image.png', similarity: 178 },
+  { filename: 'sketched_1452721981080image.png', similarity: 156 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 111 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 333 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721955281image.png', similarity: 178 },
+  { filename: 'sketched_1452721589089image.png', similarity: 164 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 156 },
+  { filename: 'sketched_1452721556723image.png', similarity: 116 },
+  { filename: 'sketched_1452722049225image.png', similarity: 111 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 115 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 188 }
+{ filename: 'sketched_1452721658995image.png', similarity: 187 }
+{ filename: 'sketched_1452721935036image.png', similarity: 303 }
+{ filename: 'sketched_1452721955281image.png', similarity: 140 }
+{ filename: 'sketched_1452721981080image.png', similarity: 139 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 115 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 187 },
+  { filename: 'sketched_1452721935036image.png', similarity: 303 },
+  { filename: 'sketched_1452721955281image.png', similarity: 140 },
+  { filename: 'sketched_1452721981080image.png', similarity: 139 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 303 },
+  { filename: 'sketched_1452721640615image.png', similarity: 188 },
+  { filename: 'sketched_1452721658995image.png', similarity: 187 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721955281image.png', similarity: 140 },
+  { filename: 'sketched_1452721981080image.png', similarity: 139 },
+  { filename: 'sketched_1452721556723image.png', similarity: 115 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 121 }
+{ filename: 'sketched_1452721589089image.png', similarity: 123 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 187 }
+{ filename: 'sketched_1452721658995image.png', similarity: 185 }
+{ filename: 'sketched_1452721935036image.png', similarity: 337 }
+{ filename: 'sketched_1452721955281image.png', similarity: 145 }
+{ filename: 'sketched_1452721981080image.png', similarity: 140 }
+{ filename: 'sketched_1452722040703image.png', similarity: 100 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 79 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 121 },
+  { filename: 'sketched_1452721589089image.png', similarity: 123 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721658995image.png', similarity: 185 },
+  { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721955281image.png', similarity: 145 },
+  { filename: 'sketched_1452721981080image.png', similarity: 140 },
+  { filename: 'sketched_1452722040703image.png', similarity: 100 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 79 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721658995image.png', similarity: 185 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721955281image.png', similarity: 145 },
+  { filename: 'sketched_1452721981080image.png', similarity: 140 },
+  { filename: 'sketched_1452721589089image.png', similarity: 123 },
+  { filename: 'sketched_1452721556723image.png', similarity: 121 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 100 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452722058554image.png', similarity: 79 } ]
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 164 }
+{ filename: 'sketched_1452721607379image.png', similarity: 157 }
+{ filename: 'sketched_1452721613849image.png', similarity: 77 }
+{ filename: 'sketched_1452721623710image.png', similarity: 179 }
+{ filename: 'sketched_1452721640615image.png', similarity: 182 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 337 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 158 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 164 },
+  { filename: 'sketched_1452721607379image.png', similarity: 157 },
+  { filename: 'sketched_1452721613849image.png', similarity: 77 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721640615image.png', similarity: 182 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 } ]
+[ { filename: 'sketched_1452721935036image.png', similarity: 337 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721640615image.png', similarity: 182 },
+  { filename: 'sketched_1452721623710image.png', similarity: 179 },
+  { filename: 'sketched_1452721589089image.png', similarity: 164 },
+  { filename: 'sketched_1452721981080image.png', similarity: 158 },
+  { filename: 'sketched_1452721607379image.png', similarity: 157 },
+  { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 77 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+{ filename: 'sketched_1452721623710image.png', similarity: 178 }
+{ filename: 'sketched_1452721640615image.png', similarity: 187 }
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+{ filename: 'sketched_1452721935036image.png', similarity: 335 }
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+{ filename: 'sketched_1452721981080image.png', similarity: 157 }
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+{ filename: 'sketched_1452723285258image.png',
+  similarity: 1220 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 178 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 335 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 157 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452723285258image.png',
+    similarity: 1220 } ]
+[ { filename: 'sketched_1452723285258image.png',
+    similarity: 1220 },
+  { filename: 'sketched_1452721935036image.png', similarity: 335 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721623710image.png', similarity: 178 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 157 },
+  { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+image has vectors: 
+{ filename: 'sketched_1452721556723image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721589089image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721607379image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721613849image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721623710image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721640615image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721658995image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721935036image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721955281image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452721981080image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452722040703image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452722049225image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452722058554image.png',
+  similarity: undefined }
+image has vectors: 
+{ filename: 'sketched_1452723285258image.png',
+  similarity: undefined }
+back to main
+[ { filename: 'sketched_1452721556723image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721589089image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721607379image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721613849image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721623710image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721640615image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721658995image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721935036image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721955281image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721981080image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452722040703image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452722049225image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452722058554image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452723285258image.png',
+    similarity: undefined } ]
+[ { filename: 'sketched_1452721556723image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452723285258image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721607379image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721613849image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721623710image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721640615image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721658995image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721589089image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721955281image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721981080image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452722040703image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452722049225image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452722058554image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452721935036image.png',
+    similarity: undefined } ]
+image has vectors: 
+80
+image has vectors:
+123
+{ filename: 'sketched_1452721556723image.png', similarity: 123 }
+image has vectors: 
+80
+image has vectors:
+165
+{ filename: 'sketched_1452721589089image.png', similarity: 165 }
+image has vectors: 
+80
+image has vectors:
+159
+{ filename: 'sketched_1452721607379image.png', similarity: 159 }
+image has vectors: 
+80
+image has vectors:
+79
+{ filename: 'sketched_1452721613849image.png', similarity: 79 }
+image has vectors: 
+80
+image has vectors:
+179
+{ filename: 'sketched_1452721623710image.png', similarity: 178 }
+image has vectors: 
+80
+image has vectors:
+188
+{ filename: 'sketched_1452721640615image.png', similarity: 187 }
+image has vectors: 
+80
+image has vectors:
+199
+{ filename: 'sketched_1452721658995image.png', similarity: 199 }
+image has vectors: 
+80
+image has vectors:
+337
+{ filename: 'sketched_1452721935036image.png', similarity: 335 }
+image has vectors: 
+80
+image has vectors:
+186
+{ filename: 'sketched_1452721955281image.png', similarity: 186 }
+image has vectors: 
+80
+image has vectors:
+158
+{ filename: 'sketched_1452721981080image.png', similarity: 157 }
+image has vectors: 
+80
+image has vectors:
+102
+{ filename: 'sketched_1452722040703image.png', similarity: 102 }
+image has vectors: 
+80
+image has vectors:
+112
+{ filename: 'sketched_1452722049225image.png', similarity: 112 }
+image has vectors: 
+80
+image has vectors:
+80
+{ filename: 'sketched_1452722058554image.png', similarity: 80 }
+image has vectors: 
+80
+image has vectors:
+1220
+{ filename: 'sketched_1452723285258image.png',
+  similarity: 1220 }
+back to main
+[ { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 },
+  { filename: 'sketched_1452721623710image.png', similarity: 178 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721935036image.png', similarity: 335 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721981080image.png', similarity: 157 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452723285258image.png',
+    similarity: 1220 } ]
+[ { filename: 'sketched_1452723285258image.png',
+    similarity: 1220 },
+  { filename: 'sketched_1452721935036image.png', similarity: 335 },
+  { filename: 'sketched_1452721658995image.png', similarity: 199 },
+  { filename: 'sketched_1452721640615image.png', similarity: 187 },
+  { filename: 'sketched_1452721955281image.png', similarity: 186 },
+  { filename: 'sketched_1452721623710image.png', similarity: 178 },
+  { filename: 'sketched_1452721589089image.png', similarity: 165 },
+  { filename: 'sketched_1452721607379image.png', similarity: 159 },
+  { filename: 'sketched_1452721981080image.png', similarity: 157 },
+  { filename: 'sketched_1452721556723image.png', similarity: 123 },
+  { filename: 'sketched_1452722049225image.png', similarity: 112 },
+  { filename: 'sketched_1452722040703image.png', similarity: 102 },
+  { filename: 'sketched_1452722058554image.png', similarity: 80 },
+  { filename: 'sketched_1452721613849image.png', similarity: 79 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+image has vectors: 
+90
+image has vectors:
+90
+{ filename: 'sketched_1452724659904image.png', similarity: 90 }
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 } ]
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+image has vectors: 
+120
+image has vectors:
+90
+{ filename: 'sketched_1452724659904image.png', similarity: 76 }
+image has vectors: 
+120
+image has vectors:
+120
+{ filename: 'sketched_1452724675564image.png', similarity: 120 }
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 76 },
+  { filename: 'sketched_1452724675564image.png', similarity: 120 } ]
+[ { filename: 'sketched_1452724675564image.png', similarity: 120 },
+  { filename: 'sketched_1452724659904image.png', similarity: 76 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+image has vectors: 
+100
+image has vectors:
+90
+image has vectors: 
+100
+image has vectors:
+120
+image has vectors: 
+100
+image has vectors:
+108
+image has vectors: 
+100
+image has vectors:
+100
+back to main
+[ { filename: 'sketched_1452724675564image.png', similarity: 104 },
+  { filename: 'sketched_1452724829714image.png', similarity: 100 },
+  { filename: 'sketched_1452724817569image.png', similarity: 75 },
+  { filename: 'sketched_1452724659904image.png', similarity: 73 } ]
+image has vectors: 
+100
+image has vectors:
+90
+matches: 73
+image has vectors: 
+100
+image has vectors:
+120
+matches: 104
+image has vectors: 
+100
+image has vectors:
+108
+matches: 75
+image has vectors: 
+100
+image has vectors:
+100
+matches: 100
+back to main
+[ { filename: 'sketched_1452724675564image.png', similarity: 104 },
+  { filename: 'sketched_1452724829714image.png', similarity: 100 },
+  { filename: 'sketched_1452724817569image.png', similarity: 75 },
+  { filename: 'sketched_1452724659904image.png', similarity: 73 } ]
+image has vectors: 100
+image has vectors:90
+matches: 73
+image has vectors: 100
+image has vectors:120
+matches: 104
+image has vectors: 100
+image has vectors:108
+matches: 75
+image has vectors: 100
+image has vectors:100
+matches: 100
+back to main
+[ { filename: 'sketched_1452724675564image.png', similarity: 104 },
+  { filename: 'sketched_1452724829714image.png', similarity: 100 },
+  { filename: 'sketched_1452724817569image.png', similarity: 75 },
+  { filename: 'sketched_1452724659904image.png', similarity: 73 } ]
+image has vectors: 100
+image has vectors:90
+matches: 29
+image has vectors: 100
+image has vectors:120
+matches: 57
+image has vectors: 100
+image has vectors:108
+matches: 35
+image has vectors: 100
+image has vectors:100
+matches: 100
+back to main
+[ { filename: 'sketched_1452724829714image.png', similarity: 100 },
+  { filename: 'sketched_1452724675564image.png', similarity: 57 },
+  { filename: 'sketched_1452724817569image.png', similarity: 35 },
+  { filename: 'sketched_1452724659904image.png', similarity: 29 } ]
+image has vectors: 90
+image has vectors:90
+matches: 90
+image has vectors: 90
+image has vectors:120
+matches: 21
+image has vectors: 90
+image has vectors:108
+matches: 42
+image has vectors: 90
+image has vectors:100
+matches: 23
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 } ]
+image has vectors: 108
+image has vectors:90
+matches: 40
+image has vectors: 108
+image has vectors:120
+matches: 25
+image has vectors: 108
+image has vectors:108
+matches: 108
+image has vectors: 108
+image has vectors:100
+matches: 32
+back to main
+[ { filename: 'sketched_1452724817569image.png', similarity: 108 },
+  { filename: 'sketched_1452724659904image.png', similarity: 40 },
+  { filename: 'sketched_1452724829714image.png', similarity: 32 },
+  { filename: 'sketched_1452724675564image.png', similarity: 25 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+image has vectors: 155
+image has vectors:90
+matches: 65
+image has vectors: 155
+image has vectors:120
+matches: 48
+image has vectors: 155
+image has vectors:108
+matches: 58
+image has vectors: 155
+image has vectors:100
+matches: 72
+image has vectors: 155
+image has vectors:128
+matches: 62
+image has vectors: 155
+image has vectors:142
+matches: 47
+image has vectors: 155
+image has vectors:155
+matches: 155
+back to main
+[ { filename: 'sketched_1452725603106image.png', similarity: 155 },
+  { filename: 'sketched_1452724829714image.png', similarity: 72 },
+  { filename: 'sketched_1452724659904image.png', similarity: 65 },
+  { filename: 'sketched_1452725591997image.png', similarity: 62 },
+  { filename: 'sketched_1452724817569image.png', similarity: 58 },
+  { filename: 'sketched_1452724675564image.png', similarity: 48 },
+  { filename: 'sketched_1452725598549image.png', similarity: 47 } ]
+image has vectors: 100
+image has vectors:90
+matches: 29
+image has vectors: 100
+image has vectors:120
+matches: 57
+image has vectors: 100
+image has vectors:108
+matches: 35
+image has vectors: 100
+image has vectors:100
+matches: 100
+image has vectors: 100
+image has vectors:128
+matches: 28
+image has vectors: 100
+image has vectors:142
+matches: 26
+image has vectors: 100
+image has vectors:155
+matches: 44
+back to main
+[ { filename: 'sketched_1452724829714image.png', similarity: 100 },
+  { filename: 'sketched_1452724675564image.png', similarity: 57 },
+  { filename: 'sketched_1452725603106image.png', similarity: 44 },
+  { filename: 'sketched_1452724817569image.png', similarity: 35 },
+  { filename: 'sketched_1452724659904image.png', similarity: 29 },
+  { filename: 'sketched_1452725591997image.png', similarity: 28 },
+  { filename: 'sketched_1452725598549image.png', similarity: 26 } ]
+image has vectors: 142
+image has vectors:90
+matches: 44
+image has vectors: 142
+image has vectors:120
+matches: 36
+image has vectors: 142
+image has vectors:108
+matches: 62
+image has vectors: 142
+image has vectors:100
+matches: 40
+image has vectors: 142
+image has vectors:128
+matches: 52
+image has vectors: 142
+image has vectors:142
+matches: 142
+image has vectors: 142
+image has vectors:155
+matches: 49
+back to main
+[ { filename: 'sketched_1452725598549image.png', similarity: 142 },
+  { filename: 'sketched_1452724817569image.png', similarity: 62 },
+  { filename: 'sketched_1452725591997image.png', similarity: 52 },
+  { filename: 'sketched_1452725603106image.png', similarity: 49 },
+  { filename: 'sketched_1452724659904image.png', similarity: 44 },
+  { filename: 'sketched_1452724829714image.png', similarity: 40 },
+  { filename: 'sketched_1452724675564image.png', similarity: 36 } ]
+image has vectors: 100
+image has vectors:90
+matches: 29
+image has vectors: 100
+image has vectors:120
+matches: 57
+image has vectors: 100
+image has vectors:108
+matches: 35
+image has vectors: 100
+image has vectors:100
+matches: 100
+image has vectors: 100
+image has vectors:128
+matches: 28
+image has vectors: 100
+image has vectors:142
+matches: 26
+image has vectors: 100
+image has vectors:155
+matches: 44
+back to main
+[ { filename: 'sketched_1452724829714image.png', similarity: 100 },
+  { filename: 'sketched_1452724675564image.png', similarity: 57 },
+  { filename: 'sketched_1452725603106image.png', similarity: 44 },
+  { filename: 'sketched_1452724817569image.png', similarity: 35 },
+  { filename: 'sketched_1452724659904image.png', similarity: 29 },
+  { filename: 'sketched_1452725591997image.png', similarity: 28 },
+  { filename: 'sketched_1452725598549image.png', similarity: 26 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+image has vectors: 100
+image has vectors:90
+matches: 29
+image has vectors: 100
+image has vectors:120
+matches: 57
+image has vectors: 100
+image has vectors:108
+matches: 35
+image has vectors: 100
+image has vectors:100
+matches: 100
+image has vectors: 100
+image has vectors:128
+matches: 28
+image has vectors: 100
+image has vectors:142
+matches: 26
+image has vectors: 100
+image has vectors:155
+matches: 44
+image has vectors: 100
+image has vectors:123
+matches: 40
+back to main
+[ { filename: 'sketched_1452724829714image.png', similarity: 100 },
+  { filename: 'sketched_1452724675564image.png', similarity: 57 },
+  { filename: 'sketched_1452725603106image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 40 },
+  { filename: 'sketched_1452724817569image.png', similarity: 35 },
+  { filename: 'sketched_1452724659904image.png', similarity: 29 },
+  { filename: 'sketched_1452725591997image.png', similarity: 28 },
+  { filename: 'sketched_1452725598549image.png', similarity: 26 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+image has vectors: 78
+image has vectors:90
+matches: 33
+image has vectors: 78
+image has vectors:120
+matches: 25
+image has vectors: 78
+image has vectors:108
+matches: 52
+image has vectors: 78
+image has vectors:100
+matches: 6
+image has vectors: 78
+image has vectors:128
+matches: 49
+image has vectors: 78
+image has vectors:142
+matches: 5
+image has vectors: 78
+image has vectors:155
+matches: 3
+image has vectors: 78
+image has vectors:123
+matches: 28
+image has vectors: 78
+image has vectors:91
+matches: 51
+image has vectors: 78
+image has vectors:78
+matches: 78
+image has vectors: 78
+image has vectors:151
+matches: 56
+image has vectors: 78
+image has vectors:171
+matches: 50
+back to main
+[ { filename: 'sketched_1452725673383image.png', similarity: 78 },
+  { filename: 'sketched_1452725678687image.png', similarity: 56 },
+  { filename: 'sketched_1452724817569image.png', similarity: 52 },
+  { filename: 'sketched_1452725668356image.png', similarity: 51 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725591997image.png', similarity: 49 },
+  { filename: 'sketched_1452724659904image.png', similarity: 33 },
+  { filename: 'sketched_1452725649891image.png', similarity: 28 },
+  { filename: 'sketched_1452724675564image.png', similarity: 25 },
+  { filename: 'sketched_1452724829714image.png', similarity: 6 },
+  { filename: 'sketched_1452725598549image.png', similarity: 5 },
+  { filename: 'sketched_1452725603106image.png', similarity: 3 } ]
+image has vectors: 171
+image has vectors:90
+matches: 50
+image has vectors: 171
+image has vectors:120
+matches: 41
+image has vectors: 171
+image has vectors:108
+matches: 48
+image has vectors: 171
+image has vectors:100
+matches: 24
+image has vectors: 171
+image has vectors:128
+matches: 50
+image has vectors: 171
+image has vectors:142
+matches: 22
+image has vectors: 171
+image has vectors:155
+matches: 27
+image has vectors: 171
+image has vectors:123
+matches: 41
+image has vectors: 171
+image has vectors:91
+matches: 65
+image has vectors: 171
+image has vectors:78
+matches: 4
+image has vectors: 171
+image has vectors:151
+matches: 11
+image has vectors: 171
+image has vectors:171
+matches: 171
+back to main
+[ { filename: 'sketched_1452725692911image.png', similarity: 171 },
+  { filename: 'sketched_1452725668356image.png', similarity: 65 },
+  { filename: 'sketched_1452724659904image.png', similarity: 50 },
+  { filename: 'sketched_1452725591997image.png', similarity: 50 },
+  { filename: 'sketched_1452724817569image.png', similarity: 48 },
+  { filename: 'sketched_1452724675564image.png', similarity: 41 },
+  { filename: 'sketched_1452725649891image.png', similarity: 41 },
+  { filename: 'sketched_1452725603106image.png', similarity: 27 },
+  { filename: 'sketched_1452724829714image.png', similarity: 24 },
+  { filename: 'sketched_1452725598549image.png', similarity: 22 },
+  { filename: 'sketched_1452725678687image.png', similarity: 11 },
+  { filename: 'sketched_1452725673383image.png', similarity: 4 } ]
+image has vectors: 171
+image has vectors:90
+matches: 50
+image has vectors: 171
+image has vectors:120
+matches: 41
+image has vectors: 171
+image has vectors:108
+matches: 48
+image has vectors: 171
+image has vectors:100
+matches: 24
+image has vectors: 171
+image has vectors:128
+matches: 50
+image has vectors: 171
+image has vectors:142
+matches: 22
+image has vectors: 171
+image has vectors:155
+matches: 27
+image has vectors: 171
+image has vectors:123
+matches: 41
+image has vectors: 171
+image has vectors:91
+matches: 65
+image has vectors: 171
+image has vectors:78
+matches: 4
+image has vectors: 171
+image has vectors:151
+matches: 11
+image has vectors: 171
+image has vectors:171
+matches: 171
+back to main
+[ { filename: 'sketched_1452725692911image.png', similarity: 171 },
+  { filename: 'sketched_1452725668356image.png', similarity: 65 },
+  { filename: 'sketched_1452724659904image.png', similarity: 50 },
+  { filename: 'sketched_1452725591997image.png', similarity: 50 },
+  { filename: 'sketched_1452724817569image.png', similarity: 48 },
+  { filename: 'sketched_1452724675564image.png', similarity: 41 },
+  { filename: 'sketched_1452725649891image.png', similarity: 41 },
+  { filename: 'sketched_1452725603106image.png', similarity: 27 },
+  { filename: 'sketched_1452724829714image.png', similarity: 24 },
+  { filename: 'sketched_1452725598549image.png', similarity: 22 },
+  { filename: 'sketched_1452725678687image.png', similarity: 11 },
+  { filename: 'sketched_1452725673383image.png', similarity: 4 } ]
+image has vectors: 128
+image has vectors:90
+matches: 43
+image has vectors: 128
+image has vectors:120
+matches: 22
+image has vectors: 128
+image has vectors:108
+matches: 63
+image has vectors: 128
+image has vectors:100
+matches: 46
+image has vectors: 128
+image has vectors:128
+matches: 128
+image has vectors: 128
+image has vectors:142
+matches: 48
+image has vectors: 128
+image has vectors:155
+matches: 63
+image has vectors: 128
+image has vectors:123
+matches: 52
+image has vectors: 128
+image has vectors:91
+matches: 55
+image has vectors: 128
+image has vectors:78
+matches: 1
+image has vectors: 128
+image has vectors:151
+matches: 8
+image has vectors: 128
+image has vectors:171
+matches: 61
+back to main
+[ { filename: 'sketched_1452725591997image.png', similarity: 128 },
+  { filename: 'sketched_1452725603106image.png', similarity: 63 },
+  { filename: 'sketched_1452724817569image.png', similarity: 63 },
+  { filename: 'sketched_1452725692911image.png', similarity: 61 },
+  { filename: 'sketched_1452725668356image.png', similarity: 55 },
+  { filename: 'sketched_1452725649891image.png', similarity: 52 },
+  { filename: 'sketched_1452725598549image.png', similarity: 48 },
+  { filename: 'sketched_1452724829714image.png', similarity: 46 },
+  { filename: 'sketched_1452724659904image.png', similarity: 43 },
+  { filename: 'sketched_1452724675564image.png', similarity: 22 },
+  { filename: 'sketched_1452725678687image.png', similarity: 8 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 } ]
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+Finished saving as PGM without error.
+Finished generating SIFT descriptors without error.
+image has vectors: 44
+image has vectors:90
+matches: 18
+image has vectors: 44
+image has vectors:120
+matches: 3
+image has vectors: 44
+image has vectors:108
+matches: 5
+image has vectors: 44
+image has vectors:100
+matches: 5
+image has vectors: 44
+image has vectors:128
+matches: 6
+image has vectors: 44
+image has vectors:142
+matches: 10
+image has vectors: 44
+image has vectors:155
+matches: 5
+image has vectors: 44
+image has vectors:123
+matches: 2
+image has vectors: 44
+image has vectors:91
+matches: 5
+image has vectors: 44
+image has vectors:78
+matches: 1
+image has vectors: 44
+image has vectors:151
+matches: 1
+image has vectors: 44
+image has vectors:171
+matches: 1
+image has vectors: 44
+image has vectors:52
+matches: 30
+image has vectors: 44
+image has vectors:44
+matches: 44
+back to main
+[ { filename: 'sketched_1452726381087image.png', similarity: 44 },
+  { filename: 'sketched_1452726363793image.png', similarity: 30 },
+  { filename: 'sketched_1452724659904image.png', similarity: 18 },
+  { filename: 'sketched_1452725598549image.png', similarity: 10 },
+  { filename: 'sketched_1452725591997image.png', similarity: 6 },
+  { filename: 'sketched_1452725668356image.png', similarity: 5 },
+  { filename: 'sketched_1452725603106image.png', similarity: 5 },
+  { filename: 'sketched_1452724817569image.png', similarity: 5 },
+  { filename: 'sketched_1452724829714image.png', similarity: 5 },
+  { filename: 'sketched_1452724675564image.png', similarity: 3 },
+  { filename: 'sketched_1452725649891image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452725678687image.png', similarity: 1 },
+  { filename: 'sketched_1452725692911image.png', similarity: 1 } ]
+image has vectors: 52
+image has vectors:90
+matches: 31
+image has vectors: 52
+image has vectors:120
+matches: 1
+image has vectors: 52
+image has vectors:108
+matches: 27
+image has vectors: 52
+image has vectors:100
+matches: 2
+image has vectors: 52
+image has vectors:128
+matches: 8
+image has vectors: 52
+image has vectors:142
+matches: 12
+image has vectors: 52
+image has vectors:155
+matches: 4
+image has vectors: 52
+image has vectors:123
+matches: 8
+image has vectors: 52
+image has vectors:91
+matches: 1
+image has vectors: 52
+image has vectors:78
+matches: 3
+image has vectors: 52
+image has vectors:151
+matches: 1
+image has vectors: 52
+image has vectors:171
+matches: 12
+image has vectors: 52
+image has vectors:52
+matches: 52
+image has vectors: 52
+image has vectors:44
+matches: 25
+back to main
+[ { filename: 'sketched_1452726363793image.png', similarity: 52 },
+  { filename: 'sketched_1452724659904image.png', similarity: 31 },
+  { filename: 'sketched_1452724817569image.png', similarity: 27 },
+  { filename: 'sketched_1452726381087image.png', similarity: 25 },
+  { filename: 'sketched_1452725598549image.png', similarity: 12 },
+  { filename: 'sketched_1452725692911image.png', similarity: 12 },
+  { filename: 'sketched_1452725591997image.png', similarity: 8 },
+  { filename: 'sketched_1452725649891image.png', similarity: 8 },
+  { filename: 'sketched_1452725603106image.png', similarity: 4 },
+  { filename: 'sketched_1452725673383image.png', similarity: 3 },
+  { filename: 'sketched_1452724829714image.png', similarity: 2 },
+  { filename: 'sketched_1452724675564image.png', similarity: 1 },
+  { filename: 'sketched_1452725668356image.png', similarity: 1 },
+  { filename: 'sketched_1452725678687image.png', similarity: 1 } ]
+[ true,
+  0.0712867646,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0697787512     4573.0\r\n   Green: 0.0457047730     2995.3\r\n    Blue: 0.0007517018       49.3\r\n Opacity: 0.1689118325    11069.6\r\n   Total: 0.0712867646     4671.8\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726381087image.png' ]
+true
+[ true,
+  0.0478311719,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0678274511     4445.1\r\n   Green: 0.0027682058      181.4\r\n    Blue: 0.0040782901      267.3\r\n Opacity: 0.1166507406     7644.7\r\n   Total: 0.0478311719     3134.6\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725692911image.png' ]
+[ true,
+  0.0511000616,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0695236181     4556.2\r\n   Green: 0.0040230752      263.7\r\n    Blue: 0.0059808062      392.0\r\n Opacity: 0.1248727468     8183.5\r\n   Total: 0.0511000616     3348.8\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725678687image.png' ]
+[ true,
+  0.0477990032,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0677003886     4436.7\r\n   Green: 0.0033825303      221.7\r\n    Blue: 0.0050683156      332.2\r\n Opacity: 0.1150447783     7539.5\r\n   Total: 0.0477990032     3132.5\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725673383image.png' ]
+[ true,
+  0.0489674903,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0685009624     4489.2\r\n   Green: 0.0033846621      221.8\r\n    Blue: 0.0050302752      329.7\r\n Opacity: 0.1189540615     7795.7\r\n   Total: 0.0489674903     3209.1\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725668356image.png' ]
+[ true,
+  0.0575038171,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0712342851     4668.3\r\n   Green: 0.0049611720      325.1\r\n    Blue: 0.0073321699      480.5\r\n Opacity: 0.1464876415     9600.1\r\n   Total: 0.0575038171     3768.5\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725649891image.png' ]
+[ true,
+  0.0495420353,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0698142160     4575.3\r\n   Green: 0.0024885703      163.1\r\n    Blue: 0.0035495991      232.6\r\n Opacity: 0.1223157556     8016.0\r\n   Total: 0.0495420353     3246.7\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725603106image.png' ]
+[ true,
+  0.0509440328,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0686533909     4499.2\r\n   Green: 0.0036117471      236.7\r\n    Blue: 0.0053508738      350.7\r\n Opacity: 0.1261601191     8267.9\r\n   Total: 0.0509440328     3338.6\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725598549image.png' ]
+[ true,
+  0.045811308,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0663540886     4348.5\r\n   Green: 0.0026747726      175.3\r\n    Blue: 0.0040063394      262.6\r\n Opacity: 0.1102100316     7222.6\r\n   Total: 0.0458113080     3002.2\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725591997image.png' ]
+[ true,
+  0.0515670199,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0684106257     4483.3\r\n   Green: 0.0039646298      259.8\r\n    Blue: 0.0059214833      388.1\r\n Opacity: 0.1279713408     8386.6\r\n   Total: 0.0515670199     3379.4\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724829714image.png' ]
+[ true,
+  0.051400545,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0694108158     4548.8\r\n   Green: 0.0034180837      224.0\r\n    Blue: 0.0050242079      329.3\r\n Opacity: 0.1277490725     8372.0\r\n   Total: 0.0514005450     3368.5\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724817569image.png' ]
+[ true,
+  0.0569387263,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0717031398     4699.1\r\n   Green: 0.0045051926      295.2\r\n    Blue: 0.0066054979      432.9\r\n Opacity: 0.1449410748     9498.7\r\n   Total: 0.0569387263     3731.5\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724675564image.png' ]
+[ true,
+  0.0514158685,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0695792824     4559.9\r\n   Green: 0.0033318520      218.4\r\n    Blue: 0.0048851612      320.1\r\n Opacity: 0.1278671786     8379.8\r\n   Total: 0.0514158685     3369.5\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png' ]
+equality: undefined
+image has vectors: 52
+image has vectors:90
+matches: 31
+equality: undefined
+image has vectors: 52
+image has vectors:120
+matches: 1
+equality: undefined
+image has vectors: 52
+image has vectors:108
+matches: 27
+equality: undefined
+image has vectors: 52
+image has vectors:100
+matches: 2
+equality: undefined
+image has vectors: 52
+image has vectors:128
+matches: 8
+equality: undefined
+image has vectors: 52
+image has vectors:142
+matches: 12
+equality: undefined
+image has vectors: 52
+image has vectors:155
+matches: 4
+equality: undefined
+image has vectors: 52
+image has vectors:123
+matches: 8
+equality: undefined
+image has vectors: 52
+image has vectors:91
+matches: 1
+equality: undefined
+image has vectors: 52
+image has vectors:78
+matches: 3
+equality: undefined
+image has vectors: 52
+image has vectors:151
+matches: 1
+equality: undefined
+image has vectors: 52
+image has vectors:171
+matches: 12
+equality: undefined
+image has vectors: 52
+image has vectors:52
+matches: 52
+equality: undefined
+image has vectors: 52
+image has vectors:44
+matches: 25
+back to main
+[ { filename: 'sketched_1452726363793image.png', similarity: 52 },
+  { filename: 'sketched_1452724659904image.png', similarity: 31 },
+  { filename: 'sketched_1452724817569image.png', similarity: 27 },
+  { filename: 'sketched_1452726381087image.png', similarity: 25 },
+  { filename: 'sketched_1452725598549image.png', similarity: 12 },
+  { filename: 'sketched_1452725692911image.png', similarity: 12 },
+  { filename: 'sketched_1452725591997image.png', similarity: 8 },
+  { filename: 'sketched_1452725649891image.png', similarity: 8 },
+  { filename: 'sketched_1452725603106image.png', similarity: 4 },
+  { filename: 'sketched_1452725673383image.png', similarity: 3 },
+  { filename: 'sketched_1452724829714image.png', similarity: 2 },
+  { filename: 'sketched_1452724675564image.png', similarity: 1 },
+  { filename: 'sketched_1452725668356image.png', similarity: 1 },
+  { filename: 'sketched_1452725678687image.png', similarity: 1 } ]
+equality: undefined
+image has vectors: 108
+image has vectors:90
+matches: 40
+equality: undefined
+image has vectors: 108
+image has vectors:120
+matches: 25
+equality: undefined
+image has vectors: 108
+image has vectors:108
+matches: 108
+equality: undefined
+image has vectors: 108
+image has vectors:100
+matches: 32
+equality: undefined
+image has vectors: 108
+image has vectors:128
+matches: 48
+equality: undefined
+image has vectors: 108
+image has vectors:142
+matches: 35
+equality: undefined
+image has vectors: 108
+image has vectors:155
+matches: 37
+equality: undefined
+image has vectors: 108
+image has vectors:123
+matches: 48
+equality: undefined
+image has vectors: 108
+image has vectors:91
+matches: 48
+equality: undefined
+image has vectors: 108
+image has vectors:78
+matches: 2
+equality: undefined
+image has vectors: 108
+image has vectors:151
+matches: 5
+equality: undefined
+image has vectors: 108
+image has vectors:171
+matches: 46
+equality: undefined
+image has vectors: 108
+image has vectors:52
+matches: 3
+equality: undefined
+image has vectors: 108
+image has vectors:44
+matches: 4
+back to main
+[ { filename: 'sketched_1452724817569image.png', similarity: 108 },
+  { filename: 'sketched_1452725649891image.png', similarity: 48 },
+  { filename: 'sketched_1452725591997image.png', similarity: 48 },
+  { filename: 'sketched_1452725668356image.png', similarity: 48 },
+  { filename: 'sketched_1452725692911image.png', similarity: 46 },
+  { filename: 'sketched_1452724659904image.png', similarity: 40 },
+  { filename: 'sketched_1452725603106image.png', similarity: 37 },
+  { filename: 'sketched_1452725598549image.png', similarity: 35 },
+  { filename: 'sketched_1452724829714image.png', similarity: 32 },
+  { filename: 'sketched_1452724675564image.png', similarity: 25 },
+  { filename: 'sketched_1452725678687image.png', similarity: 5 },
+  { filename: 'sketched_1452726381087image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 3 },
+  { filename: 'sketched_1452725673383image.png', similarity: 2 } ]
+equality: undefined
+image has vectors: 90
+image has vectors:90
+matches: 90
+equality: undefined
+image has vectors: 90
+image has vectors:120
+matches: 21
+equality: undefined
+image has vectors: 90
+image has vectors:108
+matches: 42
+equality: undefined
+image has vectors: 90
+image has vectors:100
+matches: 23
+equality: undefined
+image has vectors: 90
+image has vectors:128
+matches: 44
+equality: undefined
+image has vectors: 90
+image has vectors:142
+matches: 33
+equality: undefined
+image has vectors: 90
+image has vectors:155
+matches: 46
+equality: undefined
+image has vectors: 90
+image has vectors:123
+matches: 42
+equality: undefined
+image has vectors: 90
+image has vectors:91
+matches: 47
+equality: undefined
+image has vectors: 90
+image has vectors:78
+matches: 1
+equality: undefined
+image has vectors: 90
+image has vectors:151
+matches: 4
+equality: undefined
+image has vectors: 90
+image has vectors:171
+matches: 50
+equality: undefined
+image has vectors: 90
+image has vectors:52
+matches: 2
+equality: undefined
+image has vectors: 90
+image has vectors:44
+matches: 1
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+equality: undefined
+image has vectors: 171
+image has vectors:90
+matches: 50
+equality: undefined
+image has vectors: 171
+image has vectors:120
+matches: 41
+equality: undefined
+image has vectors: 171
+image has vectors:108
+matches: 48
+equality: undefined
+image has vectors: 171
+image has vectors:100
+matches: 24
+equality: undefined
+image has vectors: 171
+image has vectors:128
+matches: 50
+equality: undefined
+image has vectors: 171
+image has vectors:142
+matches: 22
+equality: undefined
+image has vectors: 171
+image has vectors:155
+matches: 27
+equality: undefined
+image has vectors: 171
+image has vectors:123
+matches: 41
+equality: undefined
+image has vectors: 171
+image has vectors:91
+matches: 65
+equality: undefined
+image has vectors: 171
+image has vectors:78
+matches: 4
+equality: undefined
+image has vectors: 171
+image has vectors:151
+matches: 11
+equality: undefined
+image has vectors: 171
+image has vectors:171
+matches: 171
+equality: undefined
+image has vectors: 171
+image has vectors:52
+matches: 8
+equality: undefined
+image has vectors: 171
+image has vectors:44
+matches: 3
+back to main
+[ { filename: 'sketched_1452725692911image.png', similarity: 171 },
+  { filename: 'sketched_1452725668356image.png', similarity: 65 },
+  { filename: 'sketched_1452724659904image.png', similarity: 50 },
+  { filename: 'sketched_1452725591997image.png', similarity: 50 },
+  { filename: 'sketched_1452724817569image.png', similarity: 48 },
+  { filename: 'sketched_1452725649891image.png', similarity: 41 },
+  { filename: 'sketched_1452724675564image.png', similarity: 41 },
+  { filename: 'sketched_1452725603106image.png', similarity: 27 },
+  { filename: 'sketched_1452724829714image.png', similarity: 24 },
+  { filename: 'sketched_1452725598549image.png', similarity: 22 },
+  { filename: 'sketched_1452725678687image.png', similarity: 11 },
+  { filename: 'sketched_1452726363793image.png', similarity: 8 },
+  { filename: 'sketched_1452725673383image.png', similarity: 4 },
+  { filename: 'sketched_1452726381087image.png', similarity: 3 } ]
+equality: undefined
+image has vectors: 171
+image has vectors:90
+matches: 50
+equality: undefined
+image has vectors: 171
+image has vectors:120
+matches: 41
+equality: undefined
+image has vectors: 171
+image has vectors:108
+matches: 48
+equality: undefined
+image has vectors: 171
+image has vectors:100
+matches: 24
+equality: undefined
+image has vectors: 171
+image has vectors:128
+matches: 50
+equality: undefined
+image has vectors: 171
+image has vectors:142
+matches: 22
+equality: undefined
+image has vectors: 171
+image has vectors:155
+matches: 27
+equality: undefined
+image has vectors: 171
+image has vectors:123
+matches: 41
+equality: undefined
+image has vectors: 171
+image has vectors:91
+matches: 65
+equality: undefined
+image has vectors: 171
+image has vectors:78
+matches: 4
+equality: undefined
+image has vectors: 171
+image has vectors:151
+matches: 11
+equality: undefined
+image has vectors: 171
+image has vectors:171
+matches: 171
+equality: undefined
+image has vectors: 171
+image has vectors:52
+matches: 8
+equality: undefined
+image has vectors: 171
+image has vectors:44
+matches: 3
+back to main
+[ { filename: 'sketched_1452725692911image.png', similarity: 171 },
+  { filename: 'sketched_1452725668356image.png', similarity: 65 },
+  { filename: 'sketched_1452724659904image.png', similarity: 50 },
+  { filename: 'sketched_1452725591997image.png', similarity: 50 },
+  { filename: 'sketched_1452724817569image.png', similarity: 48 },
+  { filename: 'sketched_1452725649891image.png', similarity: 41 },
+  { filename: 'sketched_1452724675564image.png', similarity: 41 },
+  { filename: 'sketched_1452725603106image.png', similarity: 27 },
+  { filename: 'sketched_1452724829714image.png', similarity: 24 },
+  { filename: 'sketched_1452725598549image.png', similarity: 22 },
+  { filename: 'sketched_1452725678687image.png', similarity: 11 },
+  { filename: 'sketched_1452726363793image.png', similarity: 8 },
+  { filename: 'sketched_1452725673383image.png', similarity: 4 },
+  { filename: 'sketched_1452726381087image.png', similarity: 3 } ]
+0.0360808905
+0.0478311719
+undefined
+0.019400436
+0.0178358761
+0.0176321212
+0.024034129
+0.0161003944
+0.0209043586
+0.0175232264
+0.0218543045
+0.0193250359
+0.0235906916
+0.0196340636
+image has vectors: 171
+image has vectors:90
+matches: 50
+image has vectors: 171
+image has vectors:120
+matches: 41
+image has vectors: 171
+image has vectors:108
+matches: 48
+image has vectors: 171
+image has vectors:100
+matches: 24
+image has vectors: 171
+image has vectors:128
+matches: 50
+image has vectors: 171
+image has vectors:142
+matches: 22
+image has vectors: 171
+image has vectors:155
+matches: 27
+image has vectors: 171
+image has vectors:123
+matches: 41
+image has vectors: 171
+image has vectors:91
+matches: 65
+image has vectors: 171
+image has vectors:78
+matches: 4
+image has vectors: 171
+image has vectors:151
+matches: 11
+image has vectors: 171
+image has vectors:171
+matches: 171
+image has vectors: 171
+image has vectors:52
+matches: 8
+image has vectors: 171
+image has vectors:44
+matches: 3
+back to main
+[ { filename: 'sketched_1452725692911image.png', similarity: 171 },
+  { filename: 'sketched_1452725668356image.png', similarity: 65 },
+  { filename: 'sketched_1452724659904image.png', similarity: 50 },
+  { filename: 'sketched_1452725591997image.png', similarity: 50 },
+  { filename: 'sketched_1452724817569image.png', similarity: 48 },
+  { filename: 'sketched_1452725649891image.png', similarity: 41 },
+  { filename: 'sketched_1452724675564image.png', similarity: 41 },
+  { filename: 'sketched_1452725603106image.png', similarity: 27 },
+  { filename: 'sketched_1452724829714image.png', similarity: 24 },
+  { filename: 'sketched_1452725598549image.png', similarity: 22 },
+  { filename: 'sketched_1452725678687image.png', similarity: 11 },
+  { filename: 'sketched_1452726363793image.png', similarity: 8 },
+  { filename: 'sketched_1452725673383image.png', similarity: 4 },
+  { filename: 'sketched_1452726381087image.png', similarity: 3 } ]
+0.0360808905
+0.0478311719
+undefined
+0.019400436
+0.0178358761
+0.0176321212
+0.024034129
+0.0161003944
+0.0209043586
+0.0175232264
+0.0218543045
+0.0193250359
+0.0235906916
+0.0196340636
+image has vectors: 90
+image has vectors:90
+matches: 90
+image has vectors: 90
+image has vectors:120
+matches: 21
+image has vectors: 90
+image has vectors:108
+matches: 42
+image has vectors: 90
+image has vectors:100
+matches: 23
+image has vectors: 90
+image has vectors:128
+matches: 44
+image has vectors: 90
+image has vectors:142
+matches: 33
+image has vectors: 90
+image has vectors:155
+matches: 46
+image has vectors: 90
+image has vectors:123
+matches: 42
+image has vectors: 90
+image has vectors:91
+matches: 47
+image has vectors: 90
+image has vectors:78
+matches: 1
+image has vectors: 90
+image has vectors:151
+matches: 4
+image has vectors: 90
+image has vectors:171
+matches: 50
+image has vectors: 90
+image has vectors:52
+matches: 2
+image has vectors: 90
+image has vectors:44
+matches: 1
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+image has vectors: 90
+image has vectors:90
+matches: 90
+image has vectors: 90
+image has vectors:120
+matches: 21
+image has vectors: 90
+image has vectors:108
+matches: 42
+image has vectors: 90
+image has vectors:100
+matches: 23
+image has vectors: 90
+image has vectors:128
+matches: 44
+image has vectors: 90
+image has vectors:142
+matches: 33
+image has vectors: 90
+image has vectors:155
+matches: 46
+image has vectors: 90
+image has vectors:123
+matches: 42
+image has vectors: 90
+image has vectors:91
+matches: 47
+image has vectors: 90
+image has vectors:78
+matches: 1
+image has vectors: 90
+image has vectors:151
+matches: 4
+image has vectors: 90
+image has vectors:171
+matches: 50
+image has vectors: 90
+image has vectors:52
+matches: 2
+image has vectors: 90
+image has vectors:44
+matches: 1
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+[ true,
+  0.0514158685,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0695792824     4559.9\r\n   Green: 0.0033318520      218.4\r\n    Blue: 0.0048851612      320.1\r\n Opacity: 0.1278671786     8379.8\r\n   Total: 0.0514158685     3369.5\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726363793image.png' ]
+[ true,
+  0.0372259452,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0034537231      226.3\r\n   Green: 0.0467654775     3064.8\r\n    Blue: 0.0052331554      343.0\r\n Opacity: 0.0934514246     6124.3\r\n   Total: 0.0372259452     2439.6\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726381087image.png' ]
+[ true,
+  0.0196340636,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0045258440      296.6\r\n   Green: 0.0057415229      376.3\r\n    Blue: 0.0087070200      570.6\r\n Opacity: 0.0595618674     3903.4\r\n   Total: 0.0196340636     1286.7\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725692911image.png' ]
+[ true,
+  0.0213651319,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0053975573      353.7\r\n   Green: 0.0068598898      449.6\r\n    Blue: 0.0104350826      683.9\r\n Opacity: 0.0627679979     4113.5\r\n   Total: 0.0213651319     1400.2\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725678687image.png' ]
+[ true,
+  0.0198366437,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0049780417      326.2\r\n   Green: 0.0063254173      414.5\r\n    Blue: 0.0096209225      630.5\r\n Opacity: 0.0584221935     3828.7\r\n   Total: 0.0198366437     1300.0\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725673383image.png' ]
+[ true,
+  0.0263730603,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0060593941      397.1\r\n   Green: 0.0076872787      503.8\r\n    Blue: 0.0116651107      764.5\r\n Opacity: 0.0800804578     5248.1\r\n   Total: 0.0263730603     1728.4\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725649891image.png' ]
+[ true,
+  0.0199988573,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0049450208      324.1\r\n   Green: 0.0062813156      411.6\r\n    Blue: 0.0095509581      625.9\r\n Opacity: 0.0592181349     3880.9\r\n   Total: 0.0199988573     1310.6\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725668356image.png' ]
+[ true,
+  0.0174617065,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0040378611      264.6\r\n   Green: 0.0051242121      335.8\r\n    Blue: 0.0077699014      509.2\r\n Opacity: 0.0529148515     3467.8\r\n   Total: 0.0174617065     1144.4\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725603106image.png' ]
+[ true,
+  0.0218727805,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0050375972      330.1\r\n   Green: 0.0063946005      419.1\r\n    Blue: 0.0096978611      635.5\r\n Opacity: 0.0663610633     4349.0\r\n   Total: 0.0218727805     1433.4\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725598549image.png' ]
+[ true,
+  0.0193321225,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0044520228      291.8\r\n   Green: 0.0056487958      370.2\r\n    Blue: 0.0085698900      561.6\r\n Opacity: 0.0586577816     3844.1\r\n   Total: 0.0193321225     1266.9\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452725591997image.png' ]
+[ true,
+  0.0218359289,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0050313490      329.7\r\n   Green: 0.0063796872      418.1\r\n    Blue: 0.0096844864      634.7\r\n Opacity: 0.0662481929     4341.6\r\n   Total: 0.0218359289     1431.0\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724817569image.png' ]
+[ true,
+  0.0236080766,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0054264460      355.6\r\n   Green: 0.0068832512      451.1\r\n    Blue: 0.0104492403      684.8\r\n Opacity: 0.0716733687     4697.1\r\n   Total: 0.0236080766     1547.2\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724829714image.png' ]
+[ true,
+  0.0249962829,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0057422411      376.3\r\n   Green: 0.0072831446      477.3\r\n    Blue: 0.0110561234      724.6\r\n Opacity: 0.0759036226     4974.3\r\n   Total: 0.0249962829     1638.1\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724675564image.png' ]
+true
+back to main
+[]
+[ true,
+  0.0372259452,
+  'Image Difference (MeanSquaredError):\r\n           Normalized    Absolute\r\n          ============  ==========\r\n     Red: 0.0034537231      226.3\r\n   Green: 0.0467654775     3064.8\r\n    Blue: 0.0052331554      343.0\r\n Opacity: 0.0934514246     6124.3\r\n   Total: 0.0372259452     2439.6\r\n',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452724659904image.png',
+  'e:\\school\\CVUT\\VWM\\Query_by_sketch\\server\\myapp\\routes/../public/uploads/sketched_1452726381087image.png' ]
+image has vectors: 90
+image has vectors:90
+matches: 90
+image has vectors: 90
+image has vectors:120
+matches: 21
+image has vectors: 90
+image has vectors:108
+matches: 42
+image has vectors: 90
+image has vectors:100
+matches: 23
+image has vectors: 90
+image has vectors:128
+matches: 44
+image has vectors: 90
+image has vectors:142
+matches: 33
+image has vectors: 90
+image has vectors:155
+matches: 46
+image has vectors: 90
+image has vectors:123
+matches: 42
+image has vectors: 90
+image has vectors:91
+matches: 47
+image has vectors: 90
+image has vectors:78
+matches: 1
+image has vectors: 90
+image has vectors:151
+matches: 4
+image has vectors: 90
+image has vectors:171
+matches: 50
+image has vectors: 90
+image has vectors:52
+matches: 2
+image has vectors: 90
+image has vectors:44
+matches: 1
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+image has vectors: 90
+image has vectors:90
+matches: 90
+image has vectors: 90
+image has vectors:120
+matches: 21
+image has vectors: 90
+image has vectors:108
+matches: 42
+image has vectors: 90
+image has vectors:100
+matches: 23
+image has vectors: 90
+image has vectors:128
+matches: 44
+image has vectors: 90
+image has vectors:142
+matches: 33
+image has vectors: 90
+image has vectors:155
+matches: 46
+image has vectors: 90
+image has vectors:123
+matches: 42
+image has vectors: 90
+image has vectors:91
+matches: 47
+image has vectors: 90
+image has vectors:78
+matches: 1
+image has vectors: 90
+image has vectors:151
+matches: 4
+image has vectors: 90
+image has vectors:171
+matches: 50
+image has vectors: 90
+image has vectors:52
+matches: 2
+image has vectors: 90
+image has vectors:44
+matches: 1
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+image has vectors: 90
+image has vectors:90
+matches: 90
+image has vectors: 90
+image has vectors:120
+matches: 21
+image has vectors: 90
+image has vectors:108
+matches: 42
+image has vectors: 90
+image has vectors:100
+matches: 23
+image has vectors: 90
+image has vectors:128
+matches: 44
+image has vectors: 90
+image has vectors:142
+matches: 33
+image has vectors: 90
+image has vectors:155
+matches: 46
+image has vectors: 90
+image has vectors:123
+matches: 42
+image has vectors: 90
+image has vectors:91
+matches: 47
+image has vectors: 90
+image has vectors:78
+matches: 1
+image has vectors: 90
+image has vectors:151
+matches: 4
+image has vectors: 90
+image has vectors:171
+matches: 50
+image has vectors: 90
+image has vectors:52
+matches: 2
+image has vectors: 90
+image has vectors:44
+matches: 1
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+image has vectors: 90
+image has vectors:90
+matches: 90
+image has vectors: 90
+image has vectors:120
+matches: 21
+image has vectors: 90
+image has vectors:108
+matches: 42
+image has vectors: 90
+image has vectors:100
+matches: 23
+image has vectors: 90
+image has vectors:128
+matches: 44
+image has vectors: 90
+image has vectors:142
+matches: 33
+image has vectors: 90
+image has vectors:155
+matches: 46
+image has vectors: 90
+image has vectors:123
+matches: 42
+image has vectors: 90
+image has vectors:91
+matches: 47
+image has vectors: 90
+image has vectors:78
+matches: 1
+image has vectors: 90
+image has vectors:151
+matches: 4
+image has vectors: 90
+image has vectors:171
+matches: 50
+image has vectors: 90
+image has vectors:52
+matches: 2
+image has vectors: 90
+image has vectors:44
+matches: 1
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452726381087image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452726363793image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452725692911image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452725678687image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452725673383image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452725668356image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452725649891image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452725603106image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452725598549image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452725591997image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452724829714image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452724817569image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452724675564image.png) [Invalid argument].
+
+undefined
+gm compare: Unable to open file (e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/e:\school\CVUT\VWM\Query_by_sketch\server\myapp\routes/../public/uploads/sketched_1452724659904image.png) [Invalid argument].
+
+undefined
+image has vectors: 90
+image has vectors:90
+matches: 90
+image has vectors: 90
+image has vectors:120
+matches: 21
+image has vectors: 90
+image has vectors:108
+matches: 42
+image has vectors: 90
+image has vectors:100
+matches: 23
+image has vectors: 90
+image has vectors:128
+matches: 44
+image has vectors: 90
+image has vectors:142
+matches: 33
+image has vectors: 90
+image has vectors:155
+matches: 46
+image has vectors: 90
+image has vectors:123
+matches: 42
+image has vectors: 90
+image has vectors:91
+matches: 47
+image has vectors: 90
+image has vectors:78
+matches: 1
+image has vectors: 90
+image has vectors:151
+matches: 4
+image has vectors: 90
+image has vectors:171
+matches: 50
+image has vectors: 90
+image has vectors:52
+matches: 2
+image has vectors: 90
+image has vectors:44
+matches: 1
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+null
+0.0372259452
+null
+0.0514158685
+null
+0.0196340636
+null
+0.0213651319
+null
+0.0198366437
+null
+0.0199988573
+null
+0.0263730603
+null
+0.0174617065
+null
+0.0218727805
+null
+0.0193321225
+null
+0.0236080766
+null
+0.0218359289
+null
+0
+null
+0.0249962829
+back to main
+[]
+0.0372259452
+back to main
+[ { filename: 'sketched_1452724659904image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452726381087image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452724817569image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452724829714image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452725591997image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452725598549image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452725603106image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452724675564image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452725668356image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452725673383image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452725678687image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452725692911image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452726363793image.png',
+    similarity: undefined },
+  { filename: 'sketched_1452725649891image.png',
+    similarity: undefined } ]
+0.0360808905
+0.0478311719
+0
+0.019400436
+0.0178358761
+0.0176321212
+0.024034129
+0.0209043586
+0.0161003944
+0.0175232264
+0.0218543045
+0.0193250359
+0.0235906916
+0.0196340636
+back to main
+[ { filename: 'sketched_1452725692911image.png', similarity: 171 },
+  { filename: 'sketched_1452725668356image.png', similarity: 65 },
+  { filename: 'sketched_1452724659904image.png', similarity: 50 },
+  { filename: 'sketched_1452725591997image.png', similarity: 50 },
+  { filename: 'sketched_1452724817569image.png', similarity: 48 },
+  { filename: 'sketched_1452725649891image.png', similarity: 41 },
+  { filename: 'sketched_1452724675564image.png', similarity: 41 },
+  { filename: 'sketched_1452725603106image.png', similarity: 27 },
+  { filename: 'sketched_1452724829714image.png', similarity: 24 },
+  { filename: 'sketched_1452725598549image.png', similarity: 22 },
+  { filename: 'sketched_1452725678687image.png', similarity: 11 },
+  { filename: 'sketched_1452726363793image.png', similarity: 8 },
+  { filename: 'sketched_1452725673383image.png', similarity: 4 },
+  { filename: 'sketched_1452726381087image.png', similarity: 3 } ]
+back to main
+[ { filename: 'sketched_1452724829714image.png', similarity: 100 },
+  { filename: 'sketched_1452724675564image.png', similarity: 57 },
+  { filename: 'sketched_1452725603106image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 40 },
+  { filename: 'sketched_1452725692911image.png', similarity: 40 },
+  { filename: 'sketched_1452724817569image.png', similarity: 35 },
+  { filename: 'sketched_1452725668356image.png', similarity: 33 },
+  { filename: 'sketched_1452724659904image.png', similarity: 29 },
+  { filename: 'sketched_1452725591997image.png', similarity: 28 },
+  { filename: 'sketched_1452725598549image.png', similarity: 26 },
+  { filename: 'sketched_1452725678687image.png', similarity: 6 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]
+back to main
+[ { filename: 'sketched_1452726363793image.png', similarity: 52 },
+  { filename: 'sketched_1452724659904image.png', similarity: 31 },
+  { filename: 'sketched_1452724817569image.png', similarity: 27 },
+  { filename: 'sketched_1452726381087image.png', similarity: 25 },
+  { filename: 'sketched_1452725598549image.png', similarity: 12 },
+  { filename: 'sketched_1452725692911image.png', similarity: 12 },
+  { filename: 'sketched_1452725591997image.png', similarity: 8 },
+  { filename: 'sketched_1452725649891image.png', similarity: 8 },
+  { filename: 'sketched_1452725603106image.png', similarity: 4 },
+  { filename: 'sketched_1452725673383image.png', similarity: 3 },
+  { filename: 'sketched_1452724829714image.png', similarity: 2 },
+  { filename: 'sketched_1452724675564image.png', similarity: 1 },
+  { filename: 'sketched_1452725668356image.png', similarity: 1 },
+  { filename: 'sketched_1452725678687image.png', similarity: 1 } ]
+back to main
+[ { filename: 'sketched_1452725692911image.png', similarity: 171 },
+  { filename: 'sketched_1452725668356image.png', similarity: 65 },
+  { filename: 'sketched_1452724659904image.png', similarity: 50 },
+  { filename: 'sketched_1452725591997image.png', similarity: 50 },
+  { filename: 'sketched_1452724817569image.png', similarity: 48 },
+  { filename: 'sketched_1452725649891image.png', similarity: 41 },
+  { filename: 'sketched_1452724675564image.png', similarity: 41 },
+  { filename: 'sketched_1452725603106image.png', similarity: 27 },
+  { filename: 'sketched_1452724829714image.png', similarity: 24 },
+  { filename: 'sketched_1452725598549image.png', similarity: 22 },
+  { filename: 'sketched_1452725678687image.png', similarity: 11 },
+  { filename: 'sketched_1452726363793image.png', similarity: 8 },
+  { filename: 'sketched_1452725673383image.png', similarity: 4 },
+  { filename: 'sketched_1452726381087image.png', similarity: 3 } ]
+back to main
+[ { filename: 'sketched_1452725668356image.png', similarity: 91 },
+  { filename: 'sketched_1452725591997image.png', similarity: 57 },
+  { filename: 'sketched_1452724817569image.png', similarity: 55 },
+  { filename: 'sketched_1452725692911image.png', similarity: 54 },
+  { filename: 'sketched_1452725678687image.png', similarity: 46 },
+  { filename: 'sketched_1452725673383image.png', similarity: 44 },
+  { filename: 'sketched_1452724659904image.png', similarity: 37 },
+  { filename: 'sketched_1452725649891image.png', similarity: 35 },
+  { filename: 'sketched_1452724675564image.png', similarity: 28 },
+  { filename: 'sketched_1452725603106image.png', similarity: 9 },
+  { filename: 'sketched_1452725598549image.png', similarity: 8 },
+  { filename: 'sketched_1452724829714image.png', similarity: 8 },
+  { filename: 'sketched_1452726363793image.png', similarity: 7 },
+  { filename: 'sketched_1452726381087image.png', similarity: 4 } ]
+back to main
+[ { filename: 'sketched_1452724659904image.png', similarity: 90 },
+  { filename: 'sketched_1452725692911image.png', similarity: 50 },
+  { filename: 'sketched_1452725668356image.png', similarity: 47 },
+  { filename: 'sketched_1452725603106image.png', similarity: 46 },
+  { filename: 'sketched_1452725591997image.png', similarity: 44 },
+  { filename: 'sketched_1452725649891image.png', similarity: 42 },
+  { filename: 'sketched_1452724817569image.png', similarity: 42 },
+  { filename: 'sketched_1452725598549image.png', similarity: 33 },
+  { filename: 'sketched_1452724829714image.png', similarity: 23 },
+  { filename: 'sketched_1452724675564image.png', similarity: 21 },
+  { filename: 'sketched_1452725678687image.png', similarity: 4 },
+  { filename: 'sketched_1452726363793image.png', similarity: 2 },
+  { filename: 'sketched_1452725673383image.png', similarity: 1 },
+  { filename: 'sketched_1452726381087image.png', similarity: 1 } ]

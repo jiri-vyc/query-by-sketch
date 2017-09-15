@@ -1,0 +1,31 @@
+extends layout
+block content
+	h1= title
+	.content-wrapper
+		p This is an experimental project still very much in the works. It's made as a part of semestral work for MI-VMW subject (Retrieval of Multimedia Content on the Web) taught on CTU Prague. Main goal is to allow users to sketch their own image ideas, download them or upload & compare them with others already in the database. So far it uses SIFT algorithm for feature extraction and image comparison.
+		p In the future, other methods will be added to provide better results and to compare the methods between themselves. Also drawing and image editing capabilities will be added, so that this tool can function as a lightweight online paint tool/image manipulation program.
+
+		h2 Project progress
+		
+		.progress-wrapper
+		h4 Front end part (HTML5 canvas + JavaScript)
+		.progress
+			.progress-bar.progress-bar-warning.progress-bar-striped(role="progressbar", aria-valuenow="65", aria-valuemin="0", aria-valuemax="100", style="width:65%")
+				| 65% Complete
+		h4 UI Design (bootstrap)
+		.progress
+			.progress-bar.progress-bar-success.progress-bar-striped(role="progressbar", aria-valuenow="90", aria-valuemin="0", aria-valuemax="100", style="width:90%")
+				| 90% Complete
+		h4 Server part (node.js)
+		.progress
+			.progress-bar.progress-bar-info.progress-bar-striped.active(role="progressbar", aria-valuenow="70", aria-valuemin="0", aria-valuemax="100", style="width:70%")
+				| 70% Complete
+		h4 SIFT algorithm (external)
+		.progress
+			.progress-bar.progress-bar-warning.progress-bar-striped(role="progressbar", aria-valuenow="95", aria-valuemin="0", aria-valuemax="100", style="width:95%")
+				| 95% Complete
+		h4 More accurate similarity (combination of methods)
+		.progress
+			.progress-bar.progress-bar-danger.progress-bar-striped(role="progressbar", aria-valuenow="5", aria-valuemin="0", aria-valuemax="100", style="width:5%")
+				| 5% Complete
+

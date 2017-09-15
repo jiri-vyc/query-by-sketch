@@ -1,0 +1,11 @@
+extends layout
+
+block content
+	h1= title
+
+	h2 Referenced image
+	a(href="/uploads/#{image}", data-lightbox="#{image}-ref")
+				img.image-list(src="/uploads/thumbnail_#{image}")
+
+	h2 Images sorted by similarity
+	include pictures_list

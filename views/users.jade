@@ -1,0 +1,13 @@
+extends layout
+block content
+    h1 User List
+    .content
+        h2 neco neco
+        ul
+        - if (userlist) {
+        each user, i in userlist
+            li
+                a(href="mailto:#{user.email}")= user.username
+        - } else {
+            p No users in list. Sorry.
+        - }

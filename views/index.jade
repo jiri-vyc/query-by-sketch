@@ -1,0 +1,32 @@
+extends layout
+
+block content
+	h1= title
+	.canvas-wrapper
+		#canvas-container
+			canvas#canvas(width="600", height="400") Your browser does not support canvas element, sorry!
+	.tools.btn-group
+		a#save.btn.btn-success(data-callback="#{uploadCallbackUrl}") Upload image!
+		a#rectangle.tool.btn.btn-primary(href="#") RECTANGLE
+		a#pencil.tool.active.btn.btn-primary(href="#") PENCIL
+		a#reset.tool.btn.btn-primary(href="#") RESET
+		a#download.btn.btn-success(href="#") Download image
+
+	.color-wrapper
+		.color-palette
+			form.form-inline
+				label.control-label Color:
+				input#color-picker.jscolor.form-control.input-sm
+				
+	.slider-wrapper
+		.slider-container
+			form.form-inline
+				label.control-label Stroke width:
+				input.span2.slider(type="text", data-slider-id="slider-handle")
+	h2 Images in database so far
+	#results
+		include pictures_list
+	- if (image){
+	img#editImage(style="display:none", src="/uploads/#{image}")
+	- }
+

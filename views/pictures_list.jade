@@ -1,0 +1,9 @@
+- if (list.length !== 0) {
+each image, i in list
+	span.image-wrapper
+		a(href="/uploads/#{image.filename}", data-lightbox="#{image.filename}")
+			img.image-list(src="/uploads/thumbnail_#{image.filename}")
+		a.searchSimilar.caption.btn.btn-success(href="/sift/#{image.filename}") Find similar!
+- } else {
+	p No pictures in list. Sorry.
+- }
